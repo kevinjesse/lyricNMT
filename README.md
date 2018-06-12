@@ -1,5 +1,6 @@
 # A Neural Machine Translation on Lyric Dataset from Maroon 5.
 The goal is to successfully generate lyrics given an initial set of words.
+Read the [paper](lyricNMT/Lin205_Final_Report.pdf "Paper")!
 
 ## System Requirements
 The code is successfully tested on Ubuntu 16.04 with a NVIDIA GPU GTX 1080 Ti. In order to run the code with this GPU you need to have the following software and libraries:
