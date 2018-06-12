@@ -1,5 +1,6 @@
 # A Neural Machine Translation on Lyric Dataset from Maroon 5.
 The goal is to successfully generate lyrics given an initial set of words.
+
 Read the [paper](lyricNMT/Lin205_Final_Report.pdf "Paper")!
 
 ## System Requirements
